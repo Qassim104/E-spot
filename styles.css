@@ -20,7 +20,7 @@ body {
   grid-auto-rows: minmax(100px, auto);
   gap: 10px;
   margin: 0 auto;
-  padding: 15px 30px;
+  padding: 15px 0 30px;
 }
 header {
   padding-top: 40px;
